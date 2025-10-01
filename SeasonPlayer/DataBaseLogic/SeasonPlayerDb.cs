@@ -32,8 +32,8 @@ namespace SeasonPlayer.DataBaseLogic
                             {
                                 while (reader.Read())
                                 {
-                                    //PlayerModel obj = new PlayerModel();
-                                    obj.seasonid = reader["season_id"].ToString();
+                                    PlayerModel obj = new PlayerModel();
+                                    //obj.seasonid = reader["season_id"].ToString();
 
                                     list.Add(obj);
                                 }
