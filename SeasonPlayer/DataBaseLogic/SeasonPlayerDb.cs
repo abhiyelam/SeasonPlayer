@@ -16,7 +16,7 @@ namespace SeasonPlayer.DataBaseLogic
         
             public List<PlayerModel> SeasonPlayers_GetAllSeasonId()
             {
-                //List<PlayerModel> list = new List<PlayerModel>();
+                List<PlayerModel> list = new List<PlayerModel>();
 
                 try
                 {
