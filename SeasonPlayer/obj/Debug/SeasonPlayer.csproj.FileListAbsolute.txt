@@ -1,0 +1,12 @@
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\bin\Debug\SeasonPlayer.exe.config
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\bin\Debug\SeasonPlayer.exe
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\bin\Debug\SeasonPlayer.pdb
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\bin\Debug\Newtonsoft.Json.dll
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\bin\Debug\Newtonsoft.Json.xml
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\obj\Debug\SeasonPlayer.csproj.AssemblyReference.cache
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\obj\Debug\SeasonPlayer.csproj.CoreCompileInputs.cache
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\obj\Debug\SeasonPlayer.csproj.CopyComplete
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\obj\Debug\SeasonPlayer.exe
+D:\php\TFSV1\SeasonPlayer\SeasonPlayer\obj\Debug\SeasonPlayer.pdb
