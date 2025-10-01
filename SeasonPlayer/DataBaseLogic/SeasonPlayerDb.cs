@@ -16,7 +16,7 @@ namespace SeasonPlayer.DataBaseLogic
         
             public List<PlayerModel> SeasonPlayers_GetAllSeasonId()
             {
-                List<PlayerModel> list = new List<PlayerModel>();
+                //List<PlayerModel> list = new List<PlayerModel>();
 
                 try
                 {
@@ -33,11 +33,7 @@ namespace SeasonPlayer.DataBaseLogic
                                 while (reader.Read())
                                 {
                                     PlayerModel obj = new PlayerModel();
-<<<<<<< Updated upstream
-                                    //obj.seasonid = reader["season_id"].ToString();
-=======
                                     obj.seasonid = reader["season_id"].ToString();
->>>>>>> Stashed changes
 
                                     list.Add(obj);
                                 }
