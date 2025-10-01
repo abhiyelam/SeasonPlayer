@@ -33,7 +33,11 @@ namespace SeasonPlayer.DataBaseLogic
                                 while (reader.Read())
                                 {
                                     PlayerModel obj = new PlayerModel();
+<<<<<<< Updated upstream
                                     //obj.seasonid = reader["season_id"].ToString();
+=======
+                                    obj.seasonid = reader["season_id"].ToString();
+>>>>>>> Stashed changes
 
                                     list.Add(obj);
                                 }
